@@ -1,0 +1,5 @@
+In Python you can automate your work
+In Python you can model real-world objects
+In Python you can call out functions and classes
+In Python you can use built in libraries
+In Python you can use third-parties modules
